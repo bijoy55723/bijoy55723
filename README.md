@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bijoy55723
 - 👀 I’m interested in cloud technologies
 - 🌱 I’m currently learning azure
-- 💞️ I’m looking to collaborate on data factory
+- 💞️ I’m looking to collaborate on data and analytics
 - 📫 How to reach me ...
 
 <!---
