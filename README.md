@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bijoy55723
 - 👀 I’m interested in cloud technologies
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
